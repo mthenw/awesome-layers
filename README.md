@@ -16,9 +16,10 @@
 
 ## Layers
 
-| Name | ARN / Repo | Compatible Runtimes |
+| Name | ARN / Link | Compatible Runtimes |
 |------|------------|---------------------|
 | PHP 7.1 Runtime | ARN: `arn:aws:lambda:<region>:887080169480:layer:php71:3`<br>Link:[`stackery/php-lambda-layer`](https://github.com/stackery/php-lambda-layer) | `provided` |
 | SQLite Python | Link: [`dschep/sqlite-lambda-layer`](https://github.com/dschep/sqlite-lambda-layer) | `python3.6` | 
 | GeoIP | Link: [`dschep/geoip-lambda-layer`](https://github.com/dschep/geoip-lambda-layer) | all |
 | Puppeteer | Link: [`RafalWilinski/serverless-puppeteer-layers`](https://github.com/RafalWilinski/serverless-puppeteer-layers) | all |
+| Datadog | ARN: `arn:aws:lambda:<region>:464622532012:layer:Datadog-Python36-metric:1`<br>Link: [Datadog's Lambda Layer](https://www.datadoghq.com/blog/datadog-lambda-layer/) | `python3.6` |
