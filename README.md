@@ -8,7 +8,7 @@
 
 — https://aws.amazon.com/about-aws/whats-new/2018/11/aws-lambda-now-supports-custom-runtimes-and-layers/
 
-#### How to create and use Lambda Layers?
+## How to create and use Lambda Layers?
 
 * [with Serverless Framework](https://serverless.com/blog/publish-aws-lambda-layers-serverless-framework/)
 * [with AWS Console](https://aws.amazon.com/blogs/aws/new-for-aws-lambda-use-any-programming-language-and-share-common-components/)
