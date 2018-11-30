@@ -1,6 +1,8 @@
 # λ AWSome Lambda Layers
 
-**A curated list of awesome AWS Lambda Layers**
+**A curated list of awesome AWS Lambda Layers** 
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## What are Lambda Layers?
 
