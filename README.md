@@ -27,3 +27,4 @@
 | Thundra Node | ARN: `arn:aws:lambda:<region>:269863060030:layer:thundra-lambda-node-layer:1`<br>Link: [Thundra Node Layer](https://docs.thundra.io/docs/node-custom-runtime-and-layer-support) | `nodejs8.10` |
 | Node.js v10 | ARN: `arn:aws:lambda:us-east-1:553035198032:layer:nodejs10:1`<br>Link: [`node-custom-lambda`](https://github.com/lambci/node-custom-lambda) | `provided` |
 | Node.js v11 | ARN: `arn:aws:lambda:us-east-1:553035198032:layer:nodejs11:1`<br>Link: [`node-custom-lambda`](https://github.com/lambci/node-custom-lambda) | `provided` |
+| Git + SSH | ARN: `arn:aws:lambda:us-east-1:553035198032:layer:git:2`<br>Link: [`Git Lambda Layer`](https://github.com/lambci/git-lambda-layer) | all |
