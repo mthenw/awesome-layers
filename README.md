@@ -18,7 +18,7 @@
 
 | Name | ARN / Repo | Compatible Runtimes |
 |------|------------|---------------------|
-| PHP 7.1 Runtime | `arn:aws:lambda:<region>:887080169480:layer:php71:3`<br>[stackery/php-lambda-layer](https://github.com/stackery/php-lambda-layer) | `provided` |
-| SQLite Python | [dschep/sqlite-lambda-layer](https://github.com/dschep/sqlite-lambda-layer) | `python3.6` | 
-| GeoIP | [dschep/geoip-lambda-layer](https://github.com/dschep/geoip-lambda-layer) | all |
-| Puppeteer | [RafalWilinski/serverless-puppeteer-layers](https://github.com/RafalWilinski/serverless-puppeteer-layers) | all |
+| PHP 7.1 Runtime | `arn:aws:lambda:<region>:887080169480:layer:php71:3`<br>[`stackery/php-lambda-layer`](https://github.com/stackery/php-lambda-layer) | `provided` |
+| SQLite Python | [`dschep/sqlite-lambda-layer`](https://github.com/dschep/sqlite-lambda-layer) | `python3.6` | 
+| GeoIP | [`dschep/geoip-lambda-layer`](https://github.com/dschep/geoip-lambda-layer) | all |
+| Puppeteer | [`RafalWilinski/serverless-puppeteer-layers`](https://github.com/RafalWilinski/serverless-puppeteer-layers) | all |
