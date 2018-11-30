@@ -22,3 +22,5 @@
 | SQLite Python | Link: [`dschep/sqlite-lambda-layer`](https://github.com/dschep/sqlite-lambda-layer) | `python3.6` | 
 | GeoIP | Link: [`dschep/geoip-lambda-layer`](https://github.com/dschep/geoip-lambda-layer) | all |
 | Puppeteer | Link: [`RafalWilinski/serverless-puppeteer-layers`](https://github.com/RafalWilinski/serverless-puppeteer-layers) | all |
+| Thundra Java | `arn:aws:lambda:<region>:269863060030:layer:thundra-lambda-java-layer:1` | `java8` |
+| Thundra Node | `arn:aws:lambda:<region>:269863060030:layer:thundra-lambda-node-layer:1` | `nodejs8.10` |
