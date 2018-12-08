@@ -31,7 +31,7 @@
 | PHP 7.1 | ARN: `arn:aws:lambda:<region>:887080169480:layer:php71:3`<br>Link:[`stackery/php-lambda-layer`](https://github.com/stackery/php-lambda-layer) | `provided` |
 | Brainfuck | ARN: `arn:aws:lambda:<region>:444134189787:layer:brainfuck:1`<br>Built for fun, will not process events! | `provided` |
 | LOLCODE | ARN: `arn:aws:lambda:<region>:444134189787:layer:lolcode:1`<br>Built for fun, will not process events! | `provided` |
-| N\|Solid (Node.js 8.x + 10.x) | ARN: `arn:aws:lambda:us-east-2:800406105498:layer:nsolid-node-10:3`<br>Link: [accounts.nodesource.com/downloads/nsolid-lambda](https://accounts.nodesource.com/downloads/nsolid-lambda) | `provided` |
+| N\|Solid | Node.js 10 ARN: `arn:aws:lambda:<region>:800406105498:layer:nsolid-node-10:3`<br>Node.js 8 ARN: `arn:aws:lambda:<region>:800406105498:layer:nsolid-node-8:3`<br>Link: [accounts.nodesource.com/downloads/nsolid-lambda](https://accounts.nodesource.com/downloads/nsolid-lambda) | `provided` |
 
 
 ### Utilities
