@@ -13,7 +13,7 @@
 * [with Serverless Framework](https://serverless.com/blog/publish-aws-lambda-layers-serverless-framework/)
 * [with SAM](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-template.html#serverless-sam-template-layerversion)
 * [with AWS Console](https://aws.amazon.com/blogs/aws/new-for-aws-lambda-use-any-programming-language-and-share-common-components/)
-* [with AWS CLI](https://docs.aws.amazon.com/lambda/latest/dg/configuration-layers.html)
+* [with AWS CLI](https://docs.aws.amazon.com/lambda/latest/dg/configuration-layers.html) ([tutorial](https://github.com/nsriram/aws-lambda-layer-example)), 
 * [with Stackery](https://www.stackery.io/blog/lambda-layers/)
 
 ## Layers
