@@ -61,4 +61,5 @@
 ### Security
 | Name | ARN / Link | Compatible Runtimes |
 |------|------------|---------------------|
+| [Protego](https://protego.io/) | Link: [Protego Layers and Runtimes](https://www.protego.io/layers-and-runtimes-protego/) | `python2.7, python3.6, python3.7, nodejs6.10, nodejs8.10, java8, dotnetcore2.0, dotnetcore2.1` |
 | PureSec | Link: [PureSec Lambda Protection Layer](https://www.puresec.io/blog/aws-lambda-security-with-zero-overhead-by-puresec) | `nodejs8.10` |
