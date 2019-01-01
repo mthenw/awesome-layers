@@ -34,7 +34,7 @@
 | PHP 7.1 | ARN: `arn:aws:lambda:<region>:887080169480:layer:php71:3`<br>Link:[`stackery/php-lambda-layer`](https://github.com/stackery/php-lambda-layer) | `provided` |
 | Brainfuck | ARN: `arn:aws:lambda:<region>:444134189787:layer:brainfuck:1`<br>Built for fun, will not process events! | `provided` |
 | LOLCODE | ARN: `arn:aws:lambda:<region>:444134189787:layer:lolcode:1`<br>Built for fun, will not process events! | `provided` |
-
+| Lua (alpha) | Link: [burck1/aws-lambda-lua-runtime](https://github.com/burck1/aws-lambda-lua-runtime) | `provided` |
 
 
 ### Utilities
