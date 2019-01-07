@@ -49,7 +49,11 @@
 | Tesseract | Link: [`bweigel/aws-lambda-tesseract-layer`](https://github.com/bweigel/aws-lambda-tesseract-layer) | all |
 | MySQL PHP 7.1 | Link: [`aiir/php71-mysql-aws-lambda-layer`](https://github.com/aiir/php71-mysql-aws-lambda-layer) | [`stackery/php-lambda-layer`](https://github.com/stackery/php-lambda-layer) |
 | kubectl for Amazon EKS | Link: [`pahud/lambda-layer-kubectl`](https://github.com/pahud/lambda-layer-kubectl) | `provided` |
+| AWS CLI | Link: [`pahud/lambda-layer-awscli`](https://github.com/pahud/lambda-layer-awscli) | `provided` |
+
 | WebScrapers Toolkit Python | Link: [`keithrozario/webscrapers-toolkit`](https://github.com/keithrozario/webscrapers-toolkit) | `python3.7`|
+
+
 
 ### Monitoring
 
