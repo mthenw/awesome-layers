@@ -55,14 +55,8 @@
 | SoX | ARN: `arn:aws:lambda:us-east-1:145266761615:layer:sox:1`<br>Link: [`serverlesspub/sox-aws-lambda-binary`](https://github.com/serverlesspub/sox-aws-lambda-binary) | all |
 | SQLite Python | Link: [`dschep/sqlite-lambda-layer`](https://github.com/dschep/sqlite-lambda-layer) | `python3.6` |
 | Tesseract | Link: [`bweigel/aws-lambda-tesseract-layer`](https://github.com/bweigel/aws-lambda-tesseract-layer) | all |
-<<<<<<< HEAD
 | MySQL PHP 7.1 | Link: [`aiir/php71-mysql-aws-lambda-layer`](https://github.com/aiir/php71-mysql-aws-lambda-layer) | [`stackery/php-lambda-layer`](https://github.com/stackery/php-lambda-layer) |
 | WebScrapers Toolkit Python | Link: [`keithrozario/webscrapers-toolkit`](https://github.com/keithrozario/webscrapers-toolkit) | `python3.7`|
-=======
-| WebScrapers Toolkit Python | Link: [`keithrozario/webscrapers-toolkit`](https://github.com/keithrozario/webscrapers-toolkit) | `python3.7`|
-
-
->>>>>>> upstream/master
 
 ### Monitoring
 
