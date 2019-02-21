@@ -52,13 +52,12 @@
 | Pandoc | ARN: `arn:aws:lambda:us-east-1:145266761615:layer:pandoc:1`<br>Link: [`serverlesspub/pandoc-aws-lambda-binary`](https://github.com/serverlesspub/pandoc-aws-lambda-binary) | all |
 | Puppeteer | ARN: `arn:aws:lambda:us-east-1:085108115628:layer:chrome:6`<br>Link: [`RafalWilinski/serverless-puppeteer-layers`](https://github.com/RafalWilinski/serverless-puppeteer-layers) | all |
 | psycopg2  | Link: [`jetbridge/psycopg2-lambda-layer`](https://github.com/jetbridge/psycopg2-lambda-layer)  | `python3.7` |
+| Python Toolkit | Link: [`keithrozario/Klayers`](https://github.com/keithrozario/Klayers)<br>Python packages incl. requests, aiohttp, pyOpenSSL etc.| `python3.7`|
 | rsvg-convert | ARN: `arn:aws:lambda:us-east-1:145266761615:layer:rsvg-convert:2`<br>Link: [`serverlesspub/rsvg-convert-aws-lambda-binary`](https://github.com/serverlesspub/rsvg-convert-aws-lambda-binary) | all |
 | SoX | ARN: `arn:aws:lambda:us-east-1:145266761615:layer:sox:1`<br>Link: [`serverlesspub/sox-aws-lambda-binary`](https://github.com/serverlesspub/sox-aws-lambda-binary) | all |
 | SQLite Python | Link: [`dschep/sqlite-lambda-layer`](https://github.com/dschep/sqlite-lambda-layer) | `python3.6` |
 | Tesseract | Link: [`bweigel/aws-lambda-tesseract-layer`](https://github.com/bweigel/aws-lambda-tesseract-layer) | all |
-| WebScrapers Toolkit Python | Link: [`keithrozario/webscrapers-toolkit`](https://github.com/keithrozario/webscrapers-toolkit) | `python3.7`|
-
-
+| MySQL PHP 7.1 | Link: [`aiir/php71-mysql-aws-lambda-layer`](https://github.com/aiir/php71-mysql-aws-lambda-layer) | [`stackery/php-lambda-layer`](https://github.com/stackery/php-lambda-layer) |
 
 ### Monitoring
 
