@@ -16,6 +16,10 @@
 * [with AWS CLI](https://docs.aws.amazon.com/lambda/latest/dg/configuration-layers.html) ([tutorial](https://github.com/nsriram/aws-lambda-layer-example)),
 * [with Stackery](https://www.stackery.io/blog/lambda-layers/)
 
+## How to share Lambda Layers publicly?
+
+* [Tutorial with CLI examples](https://medium.com/@zaccharles/f1413b974f44)
+
 ## Layers
 
 ### Runtimes
