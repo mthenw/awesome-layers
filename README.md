@@ -52,6 +52,7 @@
 | AWS CLI | Link: [`aws-samples/aws-lambda-layer-awscli`](https://github.com/aws-samples/aws-lambda-layer-awscli) | all |
 | ClamAV | Link: [`kindlyops/lambda-clamav-layer`](https://github.com/kindlyops/lambda-clamav-layer) | all |
 | FFmpeg/FFprobe | ARN: `arn:aws:lambda:us-east-1:145266761615:layer:ffmpeg:4`<br>Link: [`serverlesspub/ffmpeg-aws-lambda-layer`](https://github.com/serverlesspub/ffmpeg-aws-lambda-layer) | all |
+| GDAL + PDAL | Link: [`arn:aws:lambda:us-east-1:163178234892:layer:pdal:8`](https://github.com/PDAL/lambda) | all |
 | GeoIP | Link: [`dschep/geoip-lambda-layer`](https://github.com/dschep/geoip-lambda-layer) | all |
 | Git + SSH | ARN: `arn:aws:lambda:<region>:553035198032:layer:git:<version>`<br>Link: [`lambci/git-lambda-layer`](https://github.com/lambci/git-lambda-layer) | all |
 | headless chromium with CJK fonts | Link: [`pahud/lambda-layer-headless-chromium`](https://github.com/pahud/lambda-layer-headless-chromium) | all |
