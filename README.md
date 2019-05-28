@@ -55,6 +55,7 @@
 | GDAL + PDAL | Link: [`arn:aws:lambda:us-east-1:163178234892:layer:pdal:8`](https://github.com/PDAL/lambda) | all |
 | GeoIP | Link: [`dschep/geoip-lambda-layer`](https://github.com/dschep/geoip-lambda-layer) | all |
 | Git + SSH | ARN: `arn:aws:lambda:<region>:553035198032:layer:git:<version>`<br>Link: [`lambci/git-lambda-layer`](https://github.com/lambci/git-lambda-layer) | all |
+| GraphicsMagick | ARN: `arn:aws:lambda:<region>:175033217214:layer:graphicsmagick:<version>`<br>Link: [`rpidanny/gm-lambda-layer`](https://github.com/rpidanny/gm-lambda-layer) | all |
 | headless chromium with CJK fonts | Link: [`pahud/lambda-layer-headless-chromium`](https://github.com/pahud/lambda-layer-headless-chromium) | all |
 | kubectl for Amazon EKS | Link: [`aws-samples/aws-lambda-layer-kubectl`](https://github.com/aws-samples/aws-lambda-layer-kubectl) | all |
 | MySQL PHP 7.1 | Link: [`aiir/php71-mysql-aws-lambda-layer`](https://github.com/aiir/php71-mysql-aws-lambda-layer) | [`stackery/php-lambda-layer`](https://github.com/stackery/php-lambda-layer) |
