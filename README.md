@@ -50,6 +50,7 @@
 | Name | ARN / Link | Compatible Runtimes |
 |------|------------|---------------------|
 | AWS CLI | Link: [`aws-samples/aws-lambda-layer-awscli`](https://github.com/aws-samples/aws-lambda-layer-awscli) | all |
+| [better-sqlite3](https://github.com/JoshuaWise/better-sqlite3) | ARN: `arn:aws:lambda:us-east-1:284387765956:layer:BetterSqlite3:4`<br>Link: [`seanfisher/better-sqlite3-lambda-layer`](https://github.com/seanfisher/better-sqlite3-lambda-layer) | `nodejs8.10` |
 | ClamAV | Link: [`kindlyops/lambda-clamav-layer`](https://github.com/kindlyops/lambda-clamav-layer) | all |
 | FFmpeg/FFprobe | ARN: `arn:aws:lambda:us-east-1:145266761615:layer:ffmpeg:4`<br>Link: [`serverlesspub/ffmpeg-aws-lambda-layer`](https://github.com/serverlesspub/ffmpeg-aws-lambda-layer) | all |
 | GDAL + PDAL | Link: [`arn:aws:lambda:us-east-1:163178234892:layer:pdal:8`](https://github.com/PDAL/lambda) | all |
