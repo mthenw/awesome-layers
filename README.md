@@ -85,8 +85,11 @@
 | IOpipe Node | ARN: `arn:aws:lambda:<region>:146318645305:layer:IOpipeNodeJS810:<version>`<br>Link: [IOpipe Node Layer](https://github.com/iopipe/iopipe-js/releases) | `nodejs6.10, nodejs8.10` |
 | IOpipe Python | ARN: `arn:aws:lambda:<region>:146318645305:layer:IOpipePython:<version>`<br>Link: [IOpipe Python Layer](https://github.com/iopipe/iopipe-python/releases) | `python2.7, python3.6, python3.7` |
 | IOpipe Java | ARN: `arn:aws:lambda:<region>:146318645305:layer:IOpipeJava8:<version>`<br>Link: [IOpipe Java Layer](https://github.com/iopipe/iopipe-java/releases) | `java8` |
+| Lumigo Node | ARN: `arn:aws:lambda:YOUR-REGION:724777057400:layer:lumigo-node-tracer:<version>`<br>Link: [Lumigo Node Layer](https://github.com/lumigo-io/lumigo-node) | `nodejs8.10, nodejs10.X` |
+| Lumigo Python | ARN: `arn:aws:lambda:YOUR-REGION:724777057400:layer:lumigo-python-tracer:<version>`<br>Link: [Lumigo Python Layer](https://github.com/lumigo-io/python_tracer) | `python3.6, python3.7` |
 | Thundra Java | ARN: `arn:aws:lambda:<region>:269863060030:layer:thundra-lambda-java-layer:1`<br>Link: [Thundra Java Layer](https://docs.thundra.io/docs/java-custom-runtime-and-layer-support) | `java8` |
 | Thundra Node | ARN: `arn:aws:lambda:<region>:269863060030:layer:thundra-lambda-node-layer:1`<br>Link: [Thundra Node Layer](https://docs.thundra.io/docs/node-custom-runtime-and-layer-support) | `nodejs8.10` |
+
 
 ### Security
 | Name | ARN / Link | Compatible Runtimes |
