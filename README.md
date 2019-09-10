@@ -65,6 +65,7 @@
 | MySQL PHP 7.1 | Link: [`aiir/php71-mysql-aws-lambda-layer`](https://github.com/aiir/php71-mysql-aws-lambda-layer) | [`stackery/php-lambda-layer`](https://github.com/stackery/php-lambda-layer) |
 | OR-Tools | Link: [`matheusmessora/or-tools-layer`](https://github.com/matheusmessora/or-tools-layer) | `python3.6` |
 | Pandoc | ARN: `arn:aws:lambda:us-east-1:145266761615:layer:pandoc:1`<br>Link: [`serverlesspub/pandoc-aws-lambda-binary`](https://github.com/serverlesspub/pandoc-aws-lambda-binary) | all |
+| paramiko  | Link: [`jetbridge/paramiko-lambda-layer`](https://github.com/jetbridge/paramiko-lambda-layer)  | `python3.7` |
 | PostgreSQL libpq | https://github.com/DrLuke/postgres-libpq-aws-lambda-layer | all |
 | Puppeteer | ARN: `arn:aws:lambda:us-east-1:085108115628:layer:chrome:6`<br>Link: [`RafalWilinski/serverless-puppeteer-layers`](https://github.com/RafalWilinski/serverless-puppeteer-layers) | all |
 | psycopg2  | Link: [`jetbridge/psycopg2-lambda-layer`](https://github.com/jetbridge/psycopg2-lambda-layer)  | `python3.6` `python3.7` |
