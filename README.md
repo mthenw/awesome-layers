@@ -90,6 +90,11 @@
 | IOpipe Java | ARN: `arn:aws:lambda:<region>:146318645305:layer:IOpipeJava8:<version>`<br>Link: [IOpipe Java Layer](https://github.com/iopipe/iopipe-java/releases) | `java8` |
 | Lumigo Node | ARN: `arn:aws:lambda:YOUR-REGION:724777057400:layer:lumigo-node-tracer:<version>`<br>Link: [Lumigo Node Layer](https://github.com/lumigo-io/lumigo-node) | `nodejs8.10, nodejs10.X` |
 | Lumigo Python | ARN: `arn:aws:lambda:YOUR-REGION:724777057400:layer:lumigo-python-tracer:<version>`<br>Link: [Lumigo Python Layer](https://github.com/lumigo-io/python_tracer) | `python3.6, python3.7` |
+| New Relic Node | ARN: `arn:aws:lambda:YOUR-REGION:451483290750:layer:NewRelicNodeJS810:<version>`<br>Link: [New Relic Node Layer](https://github.com/iopipe/newrelic-lambda-layers) | `nodejs8.10` |
+| New Relic Node | ARN: `arn:aws:lambda:YOUR-REGION:451483290750:layer:NewRelicNodeJS10X:<version>`<br>Link: [New Relic Node Layer](https://github.com/iopipe/newrelic-lambda-layers) | `nodejs10.x` |
+| New Relic Python | ARN: `arn:aws:lambda:YOUR-REGION:451483290750:layer:NewRelicPython27:<version>`<br>Link: [New Relic Python Layer](https://github.com/iopipe/newrelic-lambda-layers) | `python2.7` |
+| New Relic Python | ARN: `arn:aws:lambda:YOUR-REGION:451483290750:layer:NewRelicPython36:<version>`<br>Link: [New Relic Python Layer](https://github.com/iopipe/newrelic-lambda-layers) | `python3.6` |
+| New Relic Python | ARN: `arn:aws:lambda:YOUR-REGION:451483290750:layer:NewRelicPython37:<version>`<br>Link: [New Relic Python Layer](https://github.com/iopipe/newrelic-lambda-layers) | `python3.7` |
 | Thundra Java | ARN: `arn:aws:lambda:<region>:269863060030:layer:thundra-lambda-java-layer:1`<br>Link: [Thundra Java Layer](https://docs.thundra.io/docs/java-custom-runtime-and-layer-support) | `java8` |
 | Thundra Node | ARN: `arn:aws:lambda:<region>:269863060030:layer:thundra-lambda-node-layer:1`<br>Link: [Thundra Node Layer](https://docs.thundra.io/docs/node-custom-runtime-and-layer-support) | `nodejs8.10` |
 
