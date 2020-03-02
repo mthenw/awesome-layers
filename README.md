@@ -93,6 +93,7 @@
 | Datadog | ARN: `arn:aws:lambda:<region>:464622532012:layer:Datadog-Python37:1`<br>Link: [Datadog's Lambda Layer](https://www.datadoghq.com/blog/datadog-lambda-layer/) | `python2.7, python3.6, python3.7`, |
 | Epsagon Node | ARN: `arn:aws:lambda:<region>:066549572091:layer:epsagon-node-layer:1`<br>Link: [Epsagon Node Layer](https://epsagon.com/blog/bring-your-epsagon-layer-to-aws-lambda/) | `nodejs6.10, nodejs8.10` |
 | Epsagon Python | ARN: `arn:aws:lambda:<region>:066549572091:layer:epsagon-python-layer:1`<br>Link: [Epsagon Python Layer](https://epsagon.com/blog/bring-your-epsagon-layer-to-aws-lambda/) | `python2.7, python3.6, python3.7` |
+| Instana Node.js | ARN: `arn:aws:lambda:<region>:410797082306:layer:instana:<version>`<br>Link: [Instana Node.js Layer](https://docs.instana.io/ecosystem/aws-lambda-native-tracing/#autotrace-aws-lambdas) | `nodejs10.x, nodejs8.10, nodejs12.x` |
 | IOpipe Node | ARN: `arn:aws:lambda:<region>:146318645305:layer:IOpipeNodeJS810:<version>`<br>Link: [IOpipe Node Layer](https://github.com/iopipe/iopipe-js/releases) | `nodejs6.10, nodejs8.10` |
 | IOpipe Python | ARN: `arn:aws:lambda:<region>:146318645305:layer:IOpipePython:<version>`<br>Link: [IOpipe Python Layer](https://github.com/iopipe/iopipe-python/releases) | `python2.7, python3.6, python3.7` |
 | IOpipe Java | ARN: `arn:aws:lambda:<region>:146318645305:layer:IOpipeJava8:<version>`<br>Link: [IOpipe Java Layer](https://github.com/iopipe/iopipe-java/releases) | `java8` |
