@@ -67,6 +67,7 @@
 | kubectl for Amazon EKS | Link: [`aws-samples/aws-lambda-layer-kubectl`](https://github.com/aws-samples/aws-lambda-layer-kubectl) | all |
 | LibreOffice | ARN: `arn:aws:lambda:us-east-1:764866452798:layer:libreoffice:7`<br>Link: [`shelfio/libreoffice-lambda-layer`](https://github.com/shelfio/libreoffice-lambda-layer) | all |
 | libvips | Link: [`customink/ruby-vips-lambda`](https://github.com/customink/ruby-vips-lambda) Built for Ruby FFI but should work for all. | all |
+| ModSecurity | Link: [`Zeerg/modsecurity-layer`](https://github.com/Zeerg/modsecurity-layer) | `python3.6` `python3.7` |
 | MySQL PHP 7.1 | Link: [`aiir/php71-mysql-aws-lambda-layer`](https://github.com/aiir/php71-mysql-aws-lambda-layer) | [`stackery/php-lambda-layer`](https://github.com/stackery/php-lambda-layer) |
 | Net-SNMP Tools | Link: [`jason-dour/net-snmp-aws-lambda-layer`](https://github.com/jason-dour/net-snmp-aws-lambda-layer) | all |
 | OpenSSL | ARN: `arn:aws:lambda:us-east-1:034541671702:layer:openssl-lambda:1`<br>Link: [`alexandredavi/openssl-lambda-layer`](https://github.com/alexandredavi/openssl-lambda-layer) | all |
