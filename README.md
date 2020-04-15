@@ -53,6 +53,7 @@
 |------|------------|---------------------|
 | Apache Tika | ARN: `arn:aws:lambda:us-east-1:764866452798:layer:apache-tika:1`<br>Link: [`shelfio/apache-tika-lambda-layer`](https://github.com/shelfio/apache-tika-lambda-layer) | all |
 | AWS CLI | Link: [`aws-samples/aws-lambda-layer-awscli`](https://github.com/aws-samples/aws-lambda-layer-awscli) | all |
+| AWS Data Wrangler | Link:[`awslabs/aws-data-wrangler`](https://github.com/awslabs/aws-data-wrangler) ([`Releases`](https://github.com/awslabs/aws-data-wrangler/releases)) | `python3.6` `python3.7` `python3.8` |
 | [better-sqlite3](https://github.com/JoshuaWise/better-sqlite3) | ARN: `arn:aws:lambda:us-east-1:284387765956:layer:BetterSqlite3:8`<br>Link: [`seanfisher/better-sqlite3-lambda-layer`](https://github.com/seanfisher/better-sqlite3-lambda-layer) | `nodejs12.x` |
 | chrome-aws-lambda | ARN: `arn:aws:lambda:us-east-1:764866452798:layer:chrome-aws-lambda:4`<br>Link: [`shelfio/chrome-aws-lambda-layer`](https://github.com/shelfio/chrome-aws-lambda-layer) | all |
 | ClamAV | Link: [`kindlyops/lambda-clamav-layer`](https://github.com/kindlyops/lambda-clamav-layer) | all |
