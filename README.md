@@ -71,6 +71,7 @@
 | ModSecurity | Link: [`Zeerg/modsecurity-layer`](https://github.com/Zeerg/modsecurity-layer) | `python3.6` `python3.7` |
 | MySQL PHP 7.1 | Link: [`aiir/php71-mysql-aws-lambda-layer`](https://github.com/aiir/php71-mysql-aws-lambda-layer) | [`stackery/php-lambda-layer`](https://github.com/stackery/php-lambda-layer) |
 | Net-SNMP Tools | Link: [`jason-dour/net-snmp-aws-lambda-layer`](https://github.com/jason-dour/net-snmp-aws-lambda-layer) | all |
+| OpenCV | ARN: `arn:aws:lambda:us-east-1:939532784043:layer:opencv:1`<br>Link: [`harshthakur9030/opencv-lambda-layer-python3`](https://github.com/harshthakur9030/opencv-lambda-layer-python3) | python3.6, python3.7, python3.8 |
 | OpenSSL | ARN: `arn:aws:lambda:us-east-1:034541671702:layer:openssl-lambda:1`<br>Link: [`alexandredavi/openssl-lambda-layer`](https://github.com/alexandredavi/openssl-lambda-layer) | all |
 | OR-Tools | Link: [`matheusmessora/or-tools-layer`](https://github.com/matheusmessora/or-tools-layer) | `python3.6` |
 | Pandoc | ARN: `arn:aws:lambda:us-east-1:145266761615:layer:pandoc:1`<br>Link: [`serverlesspub/pandoc-aws-lambda-binary`](https://github.com/serverlesspub/pandoc-aws-lambda-binary) | all |
