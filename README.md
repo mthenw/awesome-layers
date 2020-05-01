@@ -15,6 +15,7 @@
 * [with AWS Console](https://aws.amazon.com/blogs/aws/new-for-aws-lambda-use-any-programming-language-and-share-common-components/)
 * [with AWS CLI](https://docs.aws.amazon.com/lambda/latest/dg/configuration-layers.html) ([tutorial](https://github.com/nsriram/aws-lambda-layer-example)),
 * [with Stackery](https://www.stackery.io/blog/lambda-layers/)
+* [with Lambda Layer Tool](https://github.com/jacksgt/lambda-layer-tool)
 
 ## How to share Lambda Layers publicly?
 
