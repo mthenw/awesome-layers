@@ -66,7 +66,7 @@
 | GDAL + PDAL | Link: [`arn:aws:lambda:us-east-1:163178234892:layer:pdal:15`](https://github.com/PDAL/lambda) | all |
 | GeoIP | Link: [`dschep/geoip-lambda-layer`](https://github.com/dschep/geoip-lambda-layer) | all |
 | Ghostscript | ARN: `arn:aws:lambda:us-east-1:764866452798:layer:ghostscript:1`<br>Link: [`shelfio/ghostscript-lambda-layer`](https://github.com/shelfio/ghostscript-lambda-layer) | all |
-| Poppler | Link:[`jeylabs/aws-lambda-poppler-layer`](https://github.com/jeylabs/aws-lambda-poppler-layer]) | all |
+| Poppler | Link:[`jeylabs/aws-lambda-poppler-layer`](https://github.com/jeylabs/aws-lambda-poppler-layer) | all |
 | Git + SSH | ARN: `arn:aws:lambda:<region>:553035198032:layer:git:<version>`<br>Link: [`lambci/git-lambda-layer`](https://github.com/lambci/git-lambda-layer) | all |
 | GraphicsMagick | ARN: `arn:aws:lambda:<region>:175033217214:layer:graphicsmagick:<version>`<br>Link: [`rpidanny/gm-lambda-layer`](https://github.com/rpidanny/gm-lambda-layer) | all |
 | headless chromium with CJK fonts | Link: [`pahud/lambda-layer-headless-chromium`](https://github.com/pahud/lambda-layer-headless-chromium) | all |
