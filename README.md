@@ -66,7 +66,6 @@
 | GDAL + PDAL | Link: [`arn:aws:lambda:us-east-1:163178234892:layer:pdal:15`](https://github.com/PDAL/lambda) | all |
 | GeoIP | Link: [`dschep/geoip-lambda-layer`](https://github.com/dschep/geoip-lambda-layer) | all |
 | Ghostscript | ARN: `arn:aws:lambda:us-east-1:764866452798:layer:ghostscript:1`<br>Link: [`shelfio/ghostscript-lambda-layer`](https://github.com/shelfio/ghostscript-lambda-layer) | all |
-| Poppler | Link:[`jeylabs/aws-lambda-poppler-layer`](https://github.com/jeylabs/aws-lambda-poppler-layer) | all |
 | Git + SSH | ARN: `arn:aws:lambda:<region>:553035198032:layer:git:<version>`<br>Link: [`lambci/git-lambda-layer`](https://github.com/lambci/git-lambda-layer) | all |
 | GraphicsMagick | ARN: `arn:aws:lambda:<region>:175033217214:layer:graphicsmagick:<version>`<br>Link: [`rpidanny/gm-lambda-layer`](https://github.com/rpidanny/gm-lambda-layer) | all |
 | headless chromium with CJK fonts | Link: [`pahud/lambda-layer-headless-chromium`](https://github.com/pahud/lambda-layer-headless-chromium) | all |
@@ -82,6 +81,7 @@
 | OR-Tools | Link: [`matheusmessora/or-tools-layer`](https://github.com/matheusmessora/or-tools-layer) | `python3.6` |
 | Pandoc | ARN: `arn:aws:lambda:us-east-1:145266761615:layer:pandoc:1`<br>Link: [`serverlesspub/pandoc-aws-lambda-binary`](https://github.com/serverlesspub/pandoc-aws-lambda-binary) | all |
 | paramiko  | Link: [`jetbridge/paramiko-lambda-layer`](https://github.com/jetbridge/paramiko-lambda-layer)  | `python3.7` |
+| Poppler | Link:[`jeylabs/aws-lambda-poppler-layer`](https://github.com/jeylabs/aws-lambda-poppler-layer) | all |
 | PostgreSQL libpq | https://github.com/DrLuke/postgres-libpq-aws-lambda-layer | all |
 | Puppeteer | ARN: `arn:aws:lambda:us-east-1:085108115628:layer:chrome:6`<br>Link: [`RafalWilinski/serverless-puppeteer-layers`](https://github.com/RafalWilinski/serverless-puppeteer-layers) | all |
 | psycopg2  | Link: [`jetbridge/psycopg2-lambda-layer`](https://github.com/jetbridge/psycopg2-lambda-layer)  | `python3.6` `python3.7` |
