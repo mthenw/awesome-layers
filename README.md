@@ -92,6 +92,7 @@
 | SQLite Python | Link: [`dschep/sqlite-lambda-layer`](https://github.com/dschep/sqlite-lambda-layer) | `python3.6` |
 | Tesseract | Link: [`bweigel/aws-lambda-tesseract-layer`](https://github.com/bweigel/aws-lambda-tesseract-layer) | all |
 | Tex Live (LaTeX) | Link: [`https://github.com/serverlesspub/latex-aws-lambda-layer`](https://github.com/serverlesspub/latex-aws-lambda-layer) | `nodejs12.x, nodejs10.x, python3.8, java11` |
+| Unzip | Link: [`vpayette/unzip-aws-lambda-layer`](https://github.com/vpayette/unzip-aws-lambda-layer) | all |
 | Zip | Link: [`morugu/zip-aws-lambda-layer`](https://github.com/morugu/zip-aws-lambda-layer) | all |
 
 
