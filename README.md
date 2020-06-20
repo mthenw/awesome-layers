@@ -49,7 +49,7 @@
 | LOLCODE | ARN: `arn:aws:lambda:<region>:444134189787:layer:lolcode:1`<br>Built for fun, will not process events! | `provided` |
 | Java 11 | Link: [andthearchitect/aws-lambda-java-runtime](https://github.com/andthearchitect/aws-lambda-java-runtime) | `provided` |
 | Haskell | ARN: `arn:aws:lambda:<YOUR REGION>:785355572843:layer:aws-haskell-runtime:2` <br>Link: [Getting Started with the Haskell AWS Lambda Runtime](https://medium.com/the-theam-journey/getting-started-with-the-haskell-aws-lambda-runtime-951b2322c7a3) | `provided` |
-| Swift | Link: [Amazon Linux Swift Layer](https://fabianfett.de/amazonlinux-swift) to be used with [swift-lambda-runtime](https://github.com/fabianfett/swift-lambda-runtime) | `provided` |
+| Swift | Link: [Swift AWS Lambda Runtime](https://github.com/swift-server/swift-aws-lambda-runtime/) | `provided` |
 
 
 ### Utilities
