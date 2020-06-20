@@ -31,12 +31,12 @@
 
 | Name | ARN / Link | Compatible Runtimes |
 |------|------------|---------------------|
-| C++ (official) | Link: [awslabs/aws-lambda-cpp](https://github.com/awslabs/aws-lambda-cpp) | `provided` |
-| Rust (official) | Link: [awslabs/aws-lambda-rust-runtime](https://github.com/awslabs/aws-lambda-rust-runtime) | `provided` |
+| C++ (official) | Link: [`awslabs/aws-lambda-cpp`](https://github.com/awslabs/aws-lambda-cpp) | `provided` |
+| Rust (official) | Link: [`awslabs/aws-lambda-rust-runtime`](https://github.com/awslabs/aws-lambda-rust-runtime) | `provided` |
 | Bash | ARN: `arn:aws:lambda:<region>:744348701589:layer:bash:<version>`<br>Link: [`gkrizek/bash-lambda-layer`](https://github.com/gkrizek/bash-lambda-layer) | `provided` |
 | [Ballerina](https://ballerina.io/) | Link: [ballerina-platform/module-ballerinax-aws.lambda](https://github.com/ballerina-platform/module-ballerinax-aws.lambda) | `provided` |
-| [Crystal](https://crystal-lang.org/) | Link: [lambci/crambda](https://github.com/lambci/crambda) | `provided` |
-| [Nim](https://nim-lang.org/) | Link: [lambci/awslambda.nim](https://github.com/lambci/awslambda.nim) | `provided` |
+| [Crystal](https://crystal-lang.org/) | Link: [`lambci/crambda`](https://github.com/lambci/crambda) | `provided` |
+| [Nim](https://nim-lang.org/) | Link: [`lambci/awslambda.nim`](https://github.com/lambci/awslambda.nim) | `provided` |
 | Node.js v8 - N\|Solid | ARN: `arn:aws:lambda:<region>:800406105498:layer:nsolid-node-8:<version>`<br>Link: [accounts.nodesource.com/downloads/nsolid-lambda](https://accounts.nodesource.com/downloads/nsolid-lambda) | `provided` |
 | Node.js v10 | ARN: `arn:aws:lambda:<region>:553035198032:layer:nodejs10:<version>`<br>Link: [`lambci/node-custom-lambda`](https://github.com/lambci/node-custom-lambda) | `provided` |
 | Node.js v10 - N\|Solid | ARN: `arn:aws:lambda:<region>:800406105498:layer:nsolid-node-10:<version>`<br>Link: [accounts.nodesource.com/downloads/nsolid-lambda](https://accounts.nodesource.com/downloads/nsolid-lambda) | `provided` |
@@ -47,9 +47,9 @@
 | Pypy 3.5 | ARN: `arn:aws:lambda:<region>:146318645305:layer:pypy35:<version>`<br>Link: [IOpipe Pypy Layer](https://github.com/iopipe/lambda-runtime-pypy3.5) | `pypy3.5` |
 | Brainfuck | ARN: `arn:aws:lambda:<region>:444134189787:layer:brainfuck:1`<br>Built for fun, will not process events! | `provided` |
 | LOLCODE | ARN: `arn:aws:lambda:<region>:444134189787:layer:lolcode:1`<br>Built for fun, will not process events! | `provided` |
-| Java 11 | Link: [andthearchitect/aws-lambda-java-runtime](https://github.com/andthearchitect/aws-lambda-java-runtime) | `provided` |
+| Java 11 | Link: [`andthearchitect/aws-lambda-java-runtime`](https://github.com/andthearchitect/aws-lambda-java-runtime) | `provided` |
 | Haskell | ARN: `arn:aws:lambda:<YOUR REGION>:785355572843:layer:aws-haskell-runtime:2` <br>Link: [Getting Started with the Haskell AWS Lambda Runtime](https://medium.com/the-theam-journey/getting-started-with-the-haskell-aws-lambda-runtime-951b2322c7a3) | `provided` |
-| Swift | Link: [Swift AWS Lambda Runtime](https://github.com/swift-server/swift-aws-lambda-runtime/) | `provided` |
+| Swift | Link: [`swift-server/swift-aws-lambda-runtime`](https://github.com/swift-server/swift-aws-lambda-runtime/) | `provided` |
 
 
 ### Utilities
