@@ -80,6 +80,7 @@
 | Net-SNMP Tools | Link: [`jason-dour/net-snmp-aws-lambda-layer`](https://github.com/jason-dour/net-snmp-aws-lambda-layer) | all |
 | OpenSSL | ARN: `arn:aws:lambda:us-east-1:034541671702:layer:openssl-lambda:1`<br>Link: [`alexandredavi/openssl-lambda-layer`](https://github.com/alexandredavi/openssl-lambda-layer) | all |
 | OR-Tools | Link: [`matheusmessora/or-tools-layer`](https://github.com/matheusmessora/or-tools-layer) | `python3.6` |
+| pandas-gbq | ARN: `arn:aws:lambda:us-east-1:251566558623:layer:python37-layer-pandas-gbq:1`<br>Link: [`vbalasu/pandas-gbq-layer`](https://github.com/vbalasu/pandas-gbq-layer) <br>Includes pandas, a versatile data exploration tool that builds on numpy. Also includes pandas-gbq for reading and writing from/to Google BigQuery | `python3.7` |
 | Pandoc | ARN: `arn:aws:lambda:us-east-1:145266761615:layer:pandoc:1`<br>Link: [`serverlesspub/pandoc-aws-lambda-binary`](https://github.com/serverlesspub/pandoc-aws-lambda-binary) | all |
 | paramiko  | Link: [`jetbridge/paramiko-lambda-layer`](https://github.com/jetbridge/paramiko-lambda-layer)  | `python3.7` |
 | Poppler | Link:[`jeylabs/aws-lambda-poppler-layer`](https://github.com/jeylabs/aws-lambda-poppler-layer) | all |
