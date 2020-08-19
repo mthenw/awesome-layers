@@ -64,6 +64,7 @@
 | chrome-aws-lambda | ARN: `arn:aws:lambda:us-east-1:764866452798:layer:chrome-aws-lambda:4`<br>Link: [`shelfio/chrome-aws-lambda-layer`](https://github.com/shelfio/chrome-aws-lambda-layer) | all |
 | ClamAV | Link: [`kindlyops/lambda-clamav-layer`](https://github.com/kindlyops/lambda-clamav-layer) | all |
 | FFmpeg/FFprobe | ARN: `arn:aws:lambda:us-east-1:145266761615:layer:ffmpeg:4`<br>Link: [`serverlesspub/ffmpeg-aws-lambda-layer`](https://github.com/serverlesspub/ffmpeg-aws-lambda-layer) | all |
+| Flyway | ARN: `arn:aws:lambda:us-east-2:044220569105:layer:flyway:4`<br>Link: [`gitlab.com/ourstreets/flyway-lambda`](https://gitlab.com/ourstreets/flyway-lambda) | java8 |
 | GDAL + PDAL | Link: [`arn:aws:lambda:us-east-1:163178234892:layer:pdal:15`](https://github.com/PDAL/lambda) | all |
 | GeoIP | Link: [`dschep/geoip-lambda-layer`](https://github.com/dschep/geoip-lambda-layer) | all |
 | Ghostscript | ARN: `arn:aws:lambda:us-east-1:764866452798:layer:ghostscript:1`<br>Link: [`shelfio/ghostscript-lambda-layer`](https://github.com/shelfio/ghostscript-lambda-layer) | all |
