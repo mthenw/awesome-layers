@@ -86,6 +86,7 @@
 | paramiko  | Link: [`jetbridge/paramiko-lambda-layer`](https://github.com/jetbridge/paramiko-lambda-layer)  | `python3.7` |
 | Poppler | Link:[`jeylabs/aws-lambda-poppler-layer`](https://github.com/jeylabs/aws-lambda-poppler-layer) | all |
 | PostgreSQL libpq | https://github.com/DrLuke/postgres-libpq-aws-lambda-layer | all |
+| Postgres TypeOrm | https://github.com/jetbridge/lambda-layer-typeorm-pg | `node10` `node14` |
 | Puppeteer | ARN: `arn:aws:lambda:us-east-1:085108115628:layer:chrome:6`<br>Link: [`RafalWilinski/serverless-puppeteer-layers`](https://github.com/RafalWilinski/serverless-puppeteer-layers) | all |
 | psycopg2  | Link: [`jetbridge/psycopg2-lambda-layer`](https://github.com/jetbridge/psycopg2-lambda-layer)  | `python3.6` `python3.7` `python3.8` |
 | pyodbc  | Link: [`kuharan/Lambda-Layers`](https://github.com/kuharan/Lambda-Layers)  | `python3.7` `python3.8` |
