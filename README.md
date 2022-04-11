@@ -29,33 +29,33 @@
 
 ### Runtimes
 
-| Name | ARN / Link | Compatible Runtimes |
-|------|------------|---------------------|
-| C++ (official) | Link: [`awslabs/aws-lambda-cpp`](https://github.com/awslabs/aws-lambda-cpp) | `provided` |
-| Rust (official) | Link: [`awslabs/aws-lambda-rust-runtime`](https://github.com/awslabs/aws-lambda-rust-runtime) | `provided` |
-| Bash | ARN: `arn:aws:lambda:<region>:744348701589:layer:bash:<version>`<br>Link: [`gkrizek/bash-lambda-layer`](https://github.com/gkrizek/bash-lambda-layer) | `provided` |
-| [Ballerina](https://ballerina.io/) | Link: [ballerina-platform/module-ballerinax-aws.lambda](https://github.com/ballerina-platform/module-ballerinax-aws.lambda) | `provided` |
-| [Crystal](https://crystal-lang.org/) | Link: [`lambci/crambda`](https://github.com/lambci/crambda) | `provided` |
-| [Nim](https://nim-lang.org/) | Link: [`lambci/awslambda.nim`](https://github.com/lambci/awslambda.nim) | `provided` |
-| Node.js v8 - N\|Solid | ARN: `arn:aws:lambda:<region>:800406105498:layer:nsolid-node-8:<version>`<br>Link: [accounts.nodesource.com/downloads/nsolid-lambda](https://accounts.nodesource.com/downloads/nsolid-lambda) | `provided` |
-| Node.js v10 | ARN: `arn:aws:lambda:<region>:553035198032:layer:nodejs10:<version>`<br>Link: [`lambci/node-custom-lambda`](https://github.com/lambci/node-custom-lambda) | `provided` |
-| Node.js v10 - N\|Solid | ARN: `arn:aws:lambda:<region>:800406105498:layer:nsolid-node-10:<version>`<br>Link: [accounts.nodesource.com/downloads/nsolid-lambda](https://accounts.nodesource.com/downloads/nsolid-lambda) | `provided` |
-| Node.js v12 | ARN: `arn:aws:lambda:<region>:553035198032:layer:nodejs12:<version>`<br>Link: [`lambci/node-custom-lambda`](https://github.com/lambci/node-custom-lambda) | `provided` |
-| Perl 5.30.1 | ARN: `arn:aws:lambda:<region>:445285296882:layer:perl-5-30-runtime:5`<br>Link:[`shogo82148/p5-aws-lambda`](https://github.com/shogo82148/p5-aws-lambda) - see links to other version and [Paws](https://metacpan.org/pod/Paws) builds in repo | `provided` |
-| PHP 7.1 & 7.3 | ARN: `arn:aws:lambda:<region>:887080169480:layer:php71:3`<br>Link:[`stackery/php-lambda-layer`](https://github.com/stackery/php-lambda-layer) | `provided` |
-| PHP 7.2 & 7.3<br>cli & fpm | ARN: [`arn:aws:lambda:<region>:209497400698:layer:php-73:<version>`](https://runtimes.bref.sh/)<br>Link:[`brefphp/bref`](https://github.com/brefphp/bref) | `provided` |
-| Pypy 3.5 | ARN: `arn:aws:lambda:<region>:146318645305:layer:pypy35:<version>`<br>Link: [IOpipe Pypy Layer](https://github.com/iopipe/lambda-runtime-pypy3.5) | `pypy3.5` |
-| Brainfuck | ARN: `arn:aws:lambda:<region>:444134189787:layer:brainfuck:1`<br>Built for fun, will not process events! | `provided` |
-| LOLCODE | ARN: `arn:aws:lambda:<region>:444134189787:layer:lolcode:1`<br>Built for fun, will not process events! | `provided` |
-| Java 11 | Link: [`andthearchitect/aws-lambda-java-runtime`](https://github.com/andthearchitect/aws-lambda-java-runtime) | `provided` |
-| Haskell | ARN: `arn:aws:lambda:<YOUR REGION>:785355572843:layer:aws-haskell-runtime:2` <br>Link: [Getting Started with the Haskell AWS Lambda Runtime](https://medium.com/the-theam-journey/getting-started-with-the-haskell-aws-lambda-runtime-951b2322c7a3) | `provided` |
-| Swift | Link: [`swift-server/swift-aws-lambda-runtime`](https://github.com/swift-server/swift-aws-lambda-runtime/) | `provided` |
+| Name | ARN / Link | Compatible Runtimes | Latest Version |
+|------|------------|---------------------|----------------|
+| C++ (official) | Link: [`awslabs/aws-lambda-cpp`](https://github.com/awslabs/aws-lambda-cpp) | `provided` | ??? |
+| Rust (official) | Link: [`awslabs/aws-lambda-rust-runtime`](https://github.com/awslabs/aws-lambda-rust-runtime) | `provided` | ??? |
+| Bash | ARN: `arn:aws:lambda:<region>:744348701589:layer:bash:<version>`<br>Link: [`gkrizek/bash-lambda-layer`](https://github.com/gkrizek/bash-lambda-layer) | `provided` | N/A |
+| [Ballerina](https://ballerina.io/) | Link: [ballerina-platform/module-ballerinax-aws.lambda](https://github.com/ballerina-platform/module-ballerinax-aws.lambda) | `provided` | ![ballerina-jre11](https://api.globadge.com/v1/badgen/aws/lambda/layer/latest-version/us-east-1/134633749276/ballerina-jre11) |
+| [Crystal](https://crystal-lang.org/) | Link: [`lambci/crambda`](https://github.com/lambci/crambda) | `provided` | N/A | 
+| [Nim](https://nim-lang.org/) | Link: [`lambci/awslambda.nim`](https://github.com/lambci/awslambda.nim) | `provided` | N/A |
+| Node.js v8 - N\|Solid | ARN: `arn:aws:lambda:<region>:800406105498:layer:nsolid-node-8:<version>`<br>Link: [accounts.nodesource.com/downloads/nsolid-lambda](https://accounts.nodesource.com/downloads/nsolid-lambda) | `provided` | N/A |
+| Node.js v10 | ARN: `arn:aws:lambda:<region>:553035198032:layer:nodejs10:<version>`<br>Link: [`lambci/node-custom-lambda`](https://github.com/lambci/node-custom-lambda) | `provided` | ![nodejs10](https://api.globadge.com/v1/badgen/aws/lambda/layer/latest-version/us-east-1/553035198032/nodejs10) |
+| Node.js v10 - N\|Solid | ARN: `arn:aws:lambda:<region>:800406105498:layer:nsolid-node-10:<version>`<br>Link: [accounts.nodesource.com/downloads/nsolid-lambda](https://accounts.nodesource.com/downloads/nsolid-lambda) | `provided` | N/A |
+| Node.js v12 | ARN: `arn:aws:lambda:<region>:553035198032:layer:nodejs12:<version>`<br>Link: [`lambci/node-custom-lambda`](https://github.com/lambci/node-custom-lambda) | `provided` | ![nodejs12](https://api.globadge.com/v1/badgen/aws/lambda/layer/latest-version/us-east-1/553035198032/nodejs12) |
+| Perl 5.30.1 | ARN: `arn:aws:lambda:<region>:445285296882:layer:perl-5-30-runtime:5`<br>Link:[`shogo82148/p5-aws-lambda`](https://github.com/shogo82148/p5-aws-lambda) - see links to other version and [Paws](https://metacpan.org/pod/Paws) builds in repo | `provided` | ![perl-5-30-runtime](https://api.globadge.com/v1/badgen/aws/lambda/layer/latest-version/us-east-1/445285296882/perl-5-30-runtime) |
+| PHP 7.1 & 7.3 | ARN: `arn:aws:lambda:<region>:887080169480:layer:php71:3`<br>Link:[`stackery/php-lambda-layer`](https://github.com/stackery/php-lambda-layer) | `provided` | N/A |
+| PHP 7.2 & 7.3<br>cli & fpm | ARN: [`arn:aws:lambda:<region>:209497400698:layer:php-73:<version>`](https://runtimes.bref.sh/)<br>Link:[`brefphp/bref`](https://github.com/brefphp/bref) | `provided` | ![php-73](https://api.globadge.com/v1/badgen/aws/lambda/layer/latest-version/us-east-1/209497400698/php-73) |
+| Pypy 3.5 | ARN: `arn:aws:lambda:<region>:146318645305:layer:pypy35:<version>`<br>Link: [IOpipe Pypy Layer](https://github.com/iopipe/lambda-runtime-pypy3.5) | `pypy3.5` | ![pypy35](https://api.globadge.com/v1/badgen/aws/lambda/layer/latest-version/us-east-1/146318645305/pypy35) |
+| Brainfuck | ARN: `arn:aws:lambda:<region>:444134189787:layer:brainfuck:1`<br>Built for fun, will not process events! | `provided` | N/A |
+| LOLCODE | ARN: `arn:aws:lambda:<region>:444134189787:layer:lolcode:1`<br>Built for fun, will not process events! | `provided` | N/A |
+| Java 11 | Link: [`andthearchitect/aws-lambda-java-runtime`](https://github.com/andthearchitect/aws-lambda-java-runtime) | `provided` | N/A |
+| Haskell | ARN: `arn:aws:lambda:<YOUR REGION>:785355572843:layer:aws-haskell-runtime:2` <br>Link: [Getting Started with the Haskell AWS Lambda Runtime](https://medium.com/the-theam-journey/getting-started-with-the-haskell-aws-lambda-runtime-951b2322c7a3) | `provided` | ![aws-haskell-runtime](https://api.globadge.com/v1/badgen/aws/lambda/layer/latest-version/us-east-1/785355572843/aws-haskell-runtime) |
+| Swift | Link: [`swift-server/swift-aws-lambda-runtime`](https://github.com/swift-server/swift-aws-lambda-runtime/) | `provided` | N/A |
 
 
 ### Utilities
 
-| Name | ARN / Link | Compatible Runtimes |
-|------|------------|---------------------|
+| Name | ARN / Link | Compatible Runtimes | Latest Version |
+|------|------------|---------------------|----------------|
 | Apache Tika | ARN: `arn:aws:lambda:us-east-1:764866452798:layer:apache-tika:1`<br>Link: [`shelfio/apache-tika-lambda-layer`](https://github.com/shelfio/apache-tika-lambda-layer) | all |
 | AWS CLI | Link: [`aws-samples/aws-lambda-layer-awscli`](https://github.com/aws-samples/aws-lambda-layer-awscli) | all |
 | AWS Data Wrangler | Link:[`awslabs/aws-data-wrangler`](https://github.com/awslabs/aws-data-wrangler) ([`Releases`](https://github.com/awslabs/aws-data-wrangler/releases)) | `python3.6` `python3.7` `python3.8` |
