@@ -50,6 +50,7 @@
 | Java 11 | Link: [`andthearchitect/aws-lambda-java-runtime`](https://github.com/andthearchitect/aws-lambda-java-runtime) | `provided` | Self publish |
 | Haskell | ARN: `arn:aws:lambda:<YOUR REGION>:785355572843:layer:aws-haskell-runtime:2` <br>Link: [Getting Started with the Haskell AWS Lambda Runtime](https://medium.com/the-theam-journey/getting-started-with-the-haskell-aws-lambda-runtime-951b2322c7a3) | `provided` | ![aws-haskell-runtime](https://api.globadge.com/v1/badgen/aws/lambda/layer/latest-version/us-east-1/785355572843/aws-haskell-runtime) |
 | Swift | Link: [`swift-server/swift-aws-lambda-runtime`](https://github.com/swift-server/swift-aws-lambda-runtime/) | `provided` | Self publish |
+| C | Link: [`PauloMigAlmeida/aws-lambda-c-runtime`](https://github.com/PauloMigAlmeida/aws-lambda-c-runtime) | `provided` | Self publish |
 
 
 ### Utilities
