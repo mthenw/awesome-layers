@@ -92,6 +92,7 @@
 | pyodbc  | Link: [`kuharan/Lambda-Layers`](https://github.com/kuharan/Lambda-Layers)  | `python3.7` `python3.8` | Self publish |
 | PySNMP | Link: [`jason-dour/pysnmp-aws-lambda-layer`](https://github.com/jason-dour/pysnmp-aws-lambda-layer) | `python3.6` `python3.7` `python3.8` | Self publish |
 | Python Toolkit | Link: [`keithrozario/Klayers`](https://github.com/keithrozario/Klayers)<br>Python packages incl. requests, aiohttp, pyOpenSSL etc.| `python3.8`| ... |
+| OpenAI | Link: [`erenyasarkurt/OpenAI-AWS-Lambda-Layer`](https://github.com/erenyasarkurt/OpenAI-AWS-Lambda-Layer)<br>OpenAI Python packages and the required dependencies| `python3.7` `python3.8` `python3.9`| Self publish |
 | Rclone | Link: [`badouralix/rclone-lambda-layer`](https://github.com/badouralix/rclone-lambda-layer) | all | Self publish |
 | rsvg-convert | ARN: `arn:aws:lambda:us-east-1:145266761615:layer:rsvg-convert:2`<br>Link: [`serverlesspub/rsvg-convert-aws-lambda-binary`](https://github.com/serverlesspub/rsvg-convert-aws-lambda-binary) | all | ![rsvg-convert](https://api.globadge.com/v1/badgen/aws/lambda/layer/latest-version/us-east-1/145266761615/rsvg-convert) |
 | scikit-learn | ARN: `arn:aws:lambda:us-east-1:446751924810:layer:python-3-7-scikit-learn-0-23-1:2`<br>Link: [`model-zoo/scikit-learn-lambda`](https://github.com/model-zoo/scikit-learn-lambda) | `python3.6` `python3.7` `python3.8` | ![python-3-7-scikit-learn-0-23-1](https://api.globadge.com/v1/badgen/aws/lambda/layer/latest-version/us-east-1/446751924810/python-3-7-scikit-learn-0-23-1) |
