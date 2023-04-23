@@ -68,6 +68,7 @@
 | Flyway | ARN: `arn:aws:lambda:us-east-2:044220569105:layer:flyway:4`<br>Link: [`gitlab.com/ourstreets/flyway-lambda`](https://gitlab.com/ourstreets/flyway-lambda) | java8 | N/A |
 | GDAL + PDAL | Link: [`arn:aws:lambda:us-east-1:163178234892:layer:pdal:15`](https://github.com/PDAL/lambda) | all | Self publish |
 | GeoIP | Link: [`dschep/geoip-lambda-layer`](https://github.com/dschep/geoip-lambda-layer) | all | Self publish |
+| getpublicip | Link: [`4n6ir/getpublicip`](https://github.com/4n6ir/getpublicip) | all | Self publish |
 | Ghostscript | ARN: `arn:aws:lambda:us-east-1:764866452798:layer:ghostscript:1`<br>Link: [`shelfio/ghostscript-lambda-layer`](https://github.com/shelfio/ghostscript-lambda-layer) | all | ![ghostscript](https://api.globadge.com/v1/badgen/aws/lambda/layer/latest-version/us-east-1/764866452798/ghostscript) |
 | Git + SSH | ARN: `arn:aws:lambda:<region>:553035198032:layer:git:<version>`<br>Link: [`lambci/git-lambda-layer`](https://github.com/lambci/git-lambda-layer) | all | ![git](https://api.globadge.com/v1/badgen/aws/lambda/layer/latest-version/us-east-1/553035198032/git) |
 | GraphicsMagick | ARN: `arn:aws:lambda:<region>:175033217214:layer:graphicsmagick:<version>`<br>Link: [`rpidanny/gm-lambda-layer`](https://github.com/rpidanny/gm-lambda-layer) | all | ![graphicsmagick](https://api.globadge.com/v1/badgen/aws/lambda/layer/latest-version/us-east-1/175033217214/graphicsmagick) |
