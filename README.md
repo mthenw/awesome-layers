@@ -134,7 +134,7 @@
 | [PureSec](https://www.puresec.io/) | Link: [PureSec Lambda Protection Layer](https://www.puresec.io/blog/aws-lambda-security-with-zero-overhead-by-puresec) | `nodejs8.10, nodejs6.10, python2.7, python3.6, python3.7, java8, dotnetcore2.x`| N/A |
 
 
-### AWS OFicial lambda layer
+### AWS Official lambda layer
 | Name | ARN / Link | Compatible Runtimes | Latest Version |
 |------|------------|---------------------|----------------|
 | [AWSLambdaPowertoolsTypeScript](https://docs.powertools.aws.dev/lambda/typescript/latest/) | ARN: [arn:aws:lambda:{region}:094274105915:layer:AWSLambdaPowertoolsTypeScript:18] | | see documentation |
