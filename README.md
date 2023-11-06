@@ -128,12 +128,6 @@
 | Thundra Java | ARN: `arn:aws:lambda:<region>:269863060030:layer:thundra-lambda-java-layer:<version>`<br>Link: [Thundra Java Layer](https://apm.docs.thundra.io/java/integration-options) | `java8`, `java11` | ![thundra-lambda-java-layer](https://api.globadge.com/v1/badgen/aws/lambda/layer/latest-version/us-east-1/269863060030/thundra-lambda-java-layer) |
 
 
-### Security
-| Name | ARN / Link | Compatible Runtimes | Latest Version |
-|------|------------|---------------------|----------------|
-| [PureSec](https://www.puresec.io/) | Link: [PureSec Lambda Protection Layer](https://www.puresec.io/blog/aws-lambda-security-with-zero-overhead-by-puresec) | `nodejs8.10, nodejs6.10, python2.7, python3.6, python3.7, java8, dotnetcore2.x`| N/A |
-
-
 ### AWS Official lambda layer
 | Name | ARN / Link | Compatible Runtimes | Latest Version |
 |------|------------|---------------------|----------------|
